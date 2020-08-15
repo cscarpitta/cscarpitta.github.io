@@ -3,4 +3,6 @@ layout: post
 title: Hello World!
 ---
 
-<h1>{{ page.title }}</h1>
+# Welcome
+
+**Hello world**
